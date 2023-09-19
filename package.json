@@ -1,0 +1,19 @@
+{
+  "name": "dinamoamis",
+  "version": "1.0.0",
+  "description": "Site do amis ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/LucasGSSA/dinamoamis.git"
+  },
+  "keywords": [
+    "amis"
+  ],
+  "author": "Lucas Silveira",
+  "license": "ISC"
+}
